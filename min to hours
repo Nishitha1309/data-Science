@@ -1,0 +1,5 @@
+# Convert minutes to hours
+minutes = 120
+hours = minutes / 60
+
+print("120 minutes is equal to", hours, "hours")
