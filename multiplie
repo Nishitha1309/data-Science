@@ -1,0 +1,8 @@
+# Multiply and add numbers
+a = 5
+b = 3
+result_multiply = a * b
+result_add = a + b
+
+print("Result of multiplication:", result_multiply)
+print("Result of addition:", result_add)
